@@ -12,7 +12,7 @@ on:
 
 permissions:
   contents: read
-# work
+# work, test
 jobs:
   test:
     runs-on:
